@@ -1,105 +1,169 @@
-# 💫 About Me:
-🚀 MSc Data Science graduate with a strong focus on building **end-to-end AI-driven systems** that solve real-world problems.
+<!-- ========================= HEADER ========================= -->
 
-🔭 Currently building  
-• AI-powered product search systems using **CLIP + FAISS**  
-• Full-stack data-driven applications with **React, Node.js, FastAPI, and MongoDB**  
-• Scalable pipelines for **embedding generation, storage, and retrieval**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=220&section=header&text=Bhavya%20Sanghrajka&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI%20Systems&descAlignY=58&descSize=18" />
+</p>
 
-👯 Open to collaborate on  
-• Machine Learning, Data Science & AI-based applications  
-• Computer Vision, NLP, and recommendation systems  
+<h3 align="center">Building intelligent, end-to-end systems that combine data, machine learning, and real-world usability.</h3>
 
-🌱 Currently learning  
-• Advanced Deep Learning & Multimodal AI systems  
-• ML system design, optimization & deployment  
-
-💬 Ask me about  
-• Python, ML pipelines, FAISS, similarity search  
-• Building production-ready AI + Full-stack systems  
-
-⚡ Fun fact  
-I love transforming complex data problems into **clean, scalable, and usable solutions** 🚀  
+<p align="center">
+  <a href="https://linkedin.com/in/bhavyasanghrajka">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bhavyamsanghrajka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bhavya-77">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyasanghrajka)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyamsanghrajka@gmail.com)
+## 💫 About Me
+
+I’m an **MSc Data Science graduate** with a strong interest in building **practical AI and analytics solutions** that go beyond experimentation and work as usable systems.
+
+My work sits at the intersection of:
+
+- **Machine Learning & AI**
+- **Data Analytics & Insight Generation**
+- **Full-Stack Integration for Intelligent Applications**
+
+I enjoy taking projects from idea to implementation — from **data collection and preprocessing** to **model development, backend integration, and user-facing applications**.
 
 ---
 
-# 💻 Tech Stack:
+## 🎯 What I’m Focused On
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-### 🤖 AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-
-### 📊 Data & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-### 🌐 Full Stack Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=mlflow&logoColor=blue)
+- Building **AI-powered search and recommendation systems**
+- Applying **machine learning to real-world business and user problems**
+- Creating **data-driven applications** with clean architecture
+- Strengthening skills in **multimodal AI, analytics, and deployment-ready systems**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🔍 RetailVision – AI-Powered Product Search System
-• Developed a **multimodal search engine** using CLIP embeddings and FAISS indexing  
-• Enabled **image-to-product and text-to-product retrieval** with high semantic accuracy  
-• Designed full-stack architecture with **React (frontend), Node.js (API), FastAPI (ML service), MongoDB (database)**  
-• Implemented optimized similarity search using **cosine similarity with normalized embeddings**  
-• Built scalable pipeline for **embedding generation, storage, and dynamic index updates**
+### 🔍 RetailVision — AI-Powered Product Search System
+An end-to-end intelligent retail search system designed to improve product discovery using multimodal AI.
+
+**Highlights**
+- Built a **multimodal product search pipeline** using **CLIP embeddings** and **FAISS**
+- Enabled **image-based and text-based product retrieval**
+- Integrated **React frontend**, **Node.js backend**, **FastAPI ML service**, and **MongoDB**
+- Implemented **cosine-similarity-based retrieval** with normalized embeddings
+- Designed the workflow to support **dynamic product updates and scalable indexing**
+
+**Core Stack**
+`Python` `CLIP` `FAISS` `FastAPI` `React` `Node.js` `MongoDB`
 
 ---
 
-### 📊 Data Analytics & Visualization Projects
-• Built dashboards using **Power BI & Python (Pandas, Plotly)**  
-• Performed **data cleaning, transformation, and exploratory data analysis (EDA)**  
-• Generated actionable insights for decision-making using real-world datasets  
+### 📊 Data Analytics & Dashboard Projects
+Analytics-focused projects built to transform raw data into structured insights and visual decision support.
+
+**Highlights**
+- Performed **data cleaning, preprocessing, and exploratory data analysis**
+- Built **interactive dashboards** using **Power BI** and Python-based analytics tools
+- Worked with structured datasets to uncover trends, business patterns, and actionable findings
+
+**Core Stack**
+`Python` `Pandas` `NumPy` `Plotly` `Power BI` `SQL`
 
 ---
 
 ### 🧠 Machine Learning Projects
-• Developed predictive models using **scikit-learn, TensorFlow, and PyTorch**  
-• Performed feature engineering, model evaluation, and performance optimization  
-• Worked on domain-focused datasets including **healthcare and retail analytics**
+A collection of applied ML projects across domains such as healthcare, prediction, and classification.
+
+**Highlights**
+- Built and evaluated models using **scikit-learn, TensorFlow, and PyTorch**
+- Worked on **feature engineering, model training, and evaluation workflows**
+- Focused on balancing **technical performance** with **practical usability**
+
+**Core Stack**
+`scikit-learn` `TensorFlow` `PyTorch` `OpenCV`
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhavya-77&theme=dark&hide_border=false&include_all_commits=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhavya-77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-77&theme=dark&hide_border=false&layout=compact)
+## 💻 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+### Machine Learning / AI
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-1E293B?style=flat-square"/>
+</p>
+
+### Data / Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+### Web / Backend / Full Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Databases / Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-### ✍️ Dev Thought
-"Building AI is not just about models — it's about creating systems that deliver real value."
+## 📌 Professional Interests
+
+I’m especially interested in roles and projects involving:
+
+- **Data Science**
+- **Machine Learning Engineering**
+- **AI / Intelligent Systems**
+- **Analytics & Insight Generation**
+- **Applied Computer Vision / Search / Recommendation**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavya-77&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya-77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=bhavya-77&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Profile Note
+
+<p align="center">
+  I’m passionate about combining <b>data, machine learning, and product thinking</b> to build systems that are not only technically strong, but genuinely useful.
+</p>
